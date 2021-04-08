@@ -3,6 +3,7 @@
 
 ### Docker container
 ```
+# https://hub.docker.com/repository/docker/tawandawei/tf2-nightly-gpu-jupyter
 $ docker pull tawandawei/tf2-nightly-gpu-jupyter:pass3
 ```
 ### Extract the TensorFlow2_ws template to your desired location
