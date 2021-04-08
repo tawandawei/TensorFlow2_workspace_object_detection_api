@@ -2,8 +2,8 @@
 ## The TensorFlow 2 Object Detection API Workspace Template
 
 ### Docker container
+https://hub.docker.com/repository/docker/tawandawei/tf2-nightly-gpu-jupyter
 ```
-# https://hub.docker.com/repository/docker/tawandawei/tf2-nightly-gpu-jupyter
 $ docker pull tawandawei/tf2-nightly-gpu-jupyter:pass3
 ```
 ### Extract the TensorFlow2_ws template to your desired location
