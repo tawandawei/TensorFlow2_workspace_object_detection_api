@@ -14,5 +14,5 @@ $ tar -xzvf TensorFlow2_ws.tar.gz
 
 ### Let's RUN the docker container
 ```
-$ docker run gpus -a ........... tmr ........... /path/to/your/workspace:/tf2/ .........
+$ docker run gpus -a ........... tmr ........... /path/to/your/TensorFlow2_ws:/tf2/ .........
 ```
